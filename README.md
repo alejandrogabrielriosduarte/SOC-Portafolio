@@ -24,4 +24,4 @@ Bienvenido a mi portafolio de análisis de seguridad.
 
 ## 📫 Conéctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandrogabrielriosduarte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrogabrielriosduarte)
